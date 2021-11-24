@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<empresa>
+	<nombre>Bar Miguel</nombre>
+	<direccion>C/ Amiel 26</direccion>
+	<dueño>Miguel</dueño>
+	<empleados>
+		<empleado id="1">
+			<nombre>Juan</nombre>
+			<edad>23</edad>
+			<meses_trabajados>7</meses_trabajados>
+			<puesto>Cocinero/a</puesto>
+			<sueldo>18000</sueldo>
+		</empleado>
+		<empleado id="2">
+			<nombre>Lucas</nombre>
+			<edad>28</edad>
+			<meses_trabajados>31</meses_trabajados>
+			<puesto>Encargado/a</puesto>
+			<sueldo>26000</sueldo>
+		</empleado>
+		<empleado id="3">
+			<nombre>María</nombre>
+			<edad>34</edad>
+			<meses_trabajados>7</meses_trabajados>
+			<puesto>Comunity Manager</puesto>
+			<sueldo>30000</sueldo>
+		</empleado>
+		<empleado id="4">
+			<nombre>Luisa</nombre>
+			<edad>33</edad>
+			<meses_trabajados>2</meses_trabajados>
+			<puesto>Camarero/a</puesto>
+			<sueldo>16000</sueldo>
+		</empleado>
+		<empleado id="5">
+			<nombre>Francisco</nombre>
+			<edad>27</edad>
+			<meses_trabajados>37</meses_trabajados>
+			<puesto>Camarero/a</puesto>
+			<sueldo>18000</sueldo>
+		</empleado>
+		<empleado id="6">
+			<nombre>Paula</nombre>
+			<edad>23</edad>
+			<meses_trabajados>9</meses_trabajados>
+			<puesto>Cocinero/a</puesto>
+			<sueldo>16000</sueldo>
+		</empleado>
+		<empleado id="7">
+			<nombre>Rodrigo</nombre>
+			<edad>31</edad>
+			<meses_trabajados>12</meses_trabajados>
+			<puesto>Camarero/a</puesto>
+			<sueldo>17000</sueldo>
+		</empleado>
+		<empleado id="8">
+			<nombre>Sofía</nombre>
+			<edad>24</edad>
+			<meses_trabajados>40</meses_trabajados>
+			<puesto>Cocinero/a</puesto>
+			<sueldo>19000</sueldo>
+		</empleado>
+	</empleados>
+</empresa>
